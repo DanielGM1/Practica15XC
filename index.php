@@ -17,7 +17,7 @@
       <ul>
         <li><a href="index.php" class="current">Inicio</a></li>
         <li><a href=basicoPhp7.php>Básico Php7</a></li>
-        <h1> Daniel Garcia Mota</h2>
+        <h1> Daniel Garcia Mota</h1>
       </ul>
       </nav>
     </header>
